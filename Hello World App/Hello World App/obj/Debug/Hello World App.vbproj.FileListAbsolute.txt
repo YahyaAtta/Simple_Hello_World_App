@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\bin\Debug\Hello World App.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\bin\Debug\Hello World App.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\bin\Debug\Hello World App.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\bin\Debug\Hello World App.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Clock_App.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Clock_App.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Hello World App.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Hello World App.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Hello World App.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\Hello World App\Hello World App\obj\Debug\Hello World App.pdb

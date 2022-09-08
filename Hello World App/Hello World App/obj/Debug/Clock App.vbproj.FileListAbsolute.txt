@@ -1,0 +1,10 @@
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\bin\Debug\Clock App.exe.config
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\bin\Debug\Clock App.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\bin\Debug\Clock App.pdb
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\bin\Debug\Clock App.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock_App.Form1.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock_App.Resources.resources
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock App.vbproj.GenerateResource.Cache
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock App.exe
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock App.xml
+C:\Users\HP\AppData\Local\Temporary Projects\Clock App\obj\Debug\Clock App.pdb
